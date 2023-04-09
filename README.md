@@ -1,4 +1,8 @@
 # Capstone-4
+
+
+![image](https://user-images.githubusercontent.com/120714922/230755686-2baf3d77-8778-46d2-aa91-ec38abc39bea.png)
+
 # **Project Name**- NETFLIX MOVIES AND TV SHOWS CLUSTERING
 
 # **Problem statement**-
@@ -27,9 +31,10 @@ Netflix is a popular streaming platform that offers a vast collection of movies 
 
 * **listed_in** : Genere
 
-* **description**: The Summary description
 
 
+
+# Conclusion
 * Based on the elbow and silhouette scores, it was determined that 26 clusters were optimal and K Means was better than Hierarchical for identifying clusters. 
 
 * Cluster 3 had the highest number of data points, and the other clusters were evenly distributed.
